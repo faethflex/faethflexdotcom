@@ -1,2 +1,2 @@
 # faethflexdotcom
-Splash page - Faethflex.com
+Faethflex.com
